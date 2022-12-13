@@ -1,0 +1,15 @@
+{
+  "name": "cypress-gotothecinema",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test:dev": "cypress open --browser chrome",
+    "test:edge": "cypress open --browser edge"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cypress": "^10.11.0"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "email": "[type=email]",
+  "password": "[type=password]",
+  "buttonLogin": "[value=Авторизоваться]",
+
+  "hallSelection": ".conf-step__selectors-box",
+  "openSale": "#start-sales",
+  "selectSession": ".movie-seances__time",
+  "hallInfo": ".buying__info-hall"
+}
